@@ -1,0 +1,28 @@
+{
+  "name": "walson-socailmedia_nj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jshint": "^2.12.0",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ecera-System/Walson-SocailMedia_NJ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ecera-System/Walson-SocailMedia_NJ/issues"
+  },
+  "homepage": "https://github.com/Ecera-System/Walson-SocailMedia_NJ#readme"
+}
